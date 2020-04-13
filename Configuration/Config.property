@@ -1,0 +1,4 @@
+chromeDriver=C:\\Users\\dell\\eclipse-workspace\\cts-project\\src\\test\\resources\\binaries\\chromedriver.exe
+firefoxDriver=C:\\Users\\dell\\eclipse-workspace\\cts-project\\src\\test\\resources\\binaries\\geckodriver.exe
+URL=https://www.naukri.com/
+ExcelData=C:\\Users\\dell\\eclipse-workspace\\cts-project\\src\\test\\resources\\Excel\\NaukriData.xlsx
